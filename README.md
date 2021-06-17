@@ -1,4 +1,4 @@
-## HPLC related Figures ##
+## HPLC related Figures for glycated Proteins for determining reliability of the HPLC analysis##
 
 ## Aims and Objectives ##
 
