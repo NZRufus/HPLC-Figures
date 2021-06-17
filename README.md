@@ -1,4 +1,5 @@
-## HPLC related Figures for glycated Proteins for determining reliability of the HPLC analysis ##
+## HPLC related Figures  ##
+These are HPLC figures for glycated Proteins for determining reliability of the HPLC analysis in terms of Retention Time as well as peak areas in terms of reproducibility. Samples were analysed 10 times on 3 separate days to determine intra and inter day variabilities.
 
 ## Aims and Objectives ##
 
